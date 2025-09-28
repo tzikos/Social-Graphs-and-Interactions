@@ -2,9 +2,6 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key id="d0" for="node" attr.name="word_count" attr.type="long" />
   <graph edgedefault="directed">
-    <node id="Funkadelic">
-      <data key="d0">3483</data>
-    </node>
     <node id="Slayer">
       <data key="d0">16624</data>
     </node>
@@ -12,7 +9,7 @@
       <data key="d0">11733</data>
     </node>
     <node id="Great_White">
-      <data key="d0">7012</data>
+      <data key="d0">7026</data>
     </node>
     <node id="Days_of_the_New">
       <data key="d0">3462</data>
@@ -24,10 +21,10 @@
       <data key="d0">7782</data>
     </node>
     <node id="Jimmy_Eat_World">
-      <data key="d0">5477</data>
+      <data key="d0">5475</data>
     </node>
     <node id="Flogging_Molly">
-      <data key="d0">2340</data>
+      <data key="d0">2337</data>
     </node>
     <node id="Simple_Plan">
       <data key="d0">6862</data>
@@ -153,7 +150,7 @@
       <data key="d0">6318</data>
     </node>
     <node id="Run-DMC">
-      <data key="d0">7097</data>
+      <data key="d0">7087</data>
     </node>
     <node id="Steve_Winwood">
       <data key="d0">7129</data>
@@ -171,13 +168,13 @@
       <data key="d0">6231</data>
     </node>
     <node id="Kansas_(band)">
-      <data key="d0">6497</data>
+      <data key="d0">6534</data>
     </node>
     <node id="Cheap_Trick">
       <data key="d0">4943</data>
     </node>
     <node id="Ozzy_Osbourne">
-      <data key="d0">20534</data>
+      <data key="d0">20618</data>
     </node>
     <node id="Survivor_(band)">
       <data key="d0">5771</data>
@@ -207,7 +204,7 @@
       <data key="d0">19762</data>
     </node>
     <node id="Charlie_Daniels">
-      <data key="d0">6439</data>
+      <data key="d0">6433</data>
     </node>
     <node id="Joan_Jett">
       <data key="d0">8691</data>
@@ -219,13 +216,13 @@
       <data key="d0">6932</data>
     </node>
     <node id="Talking_Heads">
-      <data key="d0">6442</data>
+      <data key="d0">6428</data>
     </node>
     <node id="Breaking_Benjamin">
       <data key="d0">10650</data>
     </node>
     <node id="Dave_Matthews_Band">
-      <data key="d0">9870</data>
+      <data key="d0">9878</data>
     </node>
     <node id="The_Fray">
       <data key="d0">6091</data>
@@ -264,7 +261,7 @@
       <data key="d0">37016</data>
     </node>
     <node id="ZZ_Top">
-      <data key="d0">7263</data>
+      <data key="d0">7267</data>
     </node>
     <node id="Highly_Suspect">
       <data key="d0">3042</data>
@@ -294,7 +291,7 @@
       <data key="d0">14026</data>
     </node>
     <node id="Avenged_Sevenfold">
-      <data key="d0">10756</data>
+      <data key="d0">10755</data>
     </node>
     <node id="Live_(band)">
       <data key="d0">4300</data>
@@ -307,9 +304,6 @@
     </node>
     <node id="Adam_Ant">
       <data key="d0">10982</data>
-    </node>
-    <node id="Category:Lists_of_rock_musicians">
-      <data key="d0">255</data>
     </node>
     <node id="Bullet_for_My_Valentine">
       <data key="d0">10950</data>
@@ -351,7 +345,7 @@
       <data key="d0">9827</data>
     </node>
     <node id="The_Four_Seasons_(band)">
-      <data key="d0">9990</data>
+      <data key="d0">10047</data>
     </node>
     <node id="P.O.D.">
       <data key="d0">5430</data>
@@ -366,7 +360,7 @@
       <data key="d0">10014</data>
     </node>
     <node id="Dashboard_Confessional">
-      <data key="d0">3880</data>
+      <data key="d0">3883</data>
     </node>
     <node id="Grateful_Dead">
       <data key="d0">16329</data>
@@ -413,14 +407,11 @@
     <node id="Genesis_(band)">
       <data key="d0">18736</data>
     </node>
-    <node id="X_Ambassadors">
-      <data key="d0">4110</data>
-    </node>
     <node id="Steve_Miller_Band">
-      <data key="d0">2689</data>
+      <data key="d0">2695</data>
     </node>
     <node id="Alice_Cooper">
-      <data key="d0">18713</data>
+      <data key="d0">18719</data>
     </node>
     <node id="Good_Charlotte">
       <data key="d0">8256</data>
@@ -564,7 +555,7 @@
       <data key="d0">4094</data>
     </node>
     <node id="George_Harrison">
-      <data key="d0">25590</data>
+      <data key="d0">25589</data>
     </node>
     <node id="Huey_Lewis_and_the_News">
       <data key="d0">5309</data>
@@ -617,14 +608,11 @@
     <node id="Pat_Benatar">
       <data key="d0">7353</data>
     </node>
-    <node id="X_(American_band)">
-      <data key="d0">3876</data>
-    </node>
     <node id="Buddy_Holly">
       <data key="d0">10822</data>
     </node>
     <node id="Slade">
-      <data key="d0">15699</data>
+      <data key="d0">15700</data>
     </node>
     <node id="Arcade_Fire">
       <data key="d0">11925</data>
@@ -654,13 +642,13 @@
       <data key="d0">6128</data>
     </node>
     <node id="The_Beach_Boys">
-      <data key="d0">32710</data>
+      <data key="d0">32711</data>
     </node>
     <node id="Jefferson_Airplane">
       <data key="d0">10403</data>
     </node>
     <node id="The_Bangles">
-      <data key="d0">4143</data>
+      <data key="d0">4146</data>
     </node>
     <node id="System_of_a_Down">
       <data key="d0">11021</data>
@@ -741,7 +729,7 @@
       <data key="d0">6501</data>
     </node>
     <node id="The_Guess_Who">
-      <data key="d0">6010</data>
+      <data key="d0">6025</data>
     </node>
     <node id="Damn_Yankees_(band)">
       <data key="d0">2164</data>
@@ -756,7 +744,7 @@
       <data key="d0">3718</data>
     </node>
     <node id="Twenty_One_Pilots">
-      <data key="d0">17451</data>
+      <data key="d0">17448</data>
     </node>
     <node id="Bring_Me_the_Horizon">
       <data key="d0">16881</data>
@@ -792,7 +780,7 @@
       <data key="d0">10066</data>
     </node>
     <node id="Morrissey">
-      <data key="d0">24141</data>
+      <data key="d0">24145</data>
     </node>
     <node id="Jet_(Australian_band)">
       <data key="d0">8509</data>
@@ -825,7 +813,7 @@
       <data key="d0">8144</data>
     </node>
     <node id="Emerson,_Lake_%26_Palmer">
-      <data key="d0">8192</data>
+      <data key="d0">8178</data>
     </node>
     <node id="The_Police">
       <data key="d0">10782</data>
@@ -846,7 +834,7 @@
       <data key="d0">4615</data>
     </node>
     <node id="Sepultura">
-      <data key="d0">9790</data>
+      <data key="d0">9849</data>
     </node>
     <node id="Tesla_(band)">
       <data key="d0">3344</data>
@@ -867,10 +855,10 @@
       <data key="d0">7573</data>
     </node>
     <node id="Green_Day">
-      <data key="d0">22834</data>
+      <data key="d0">22861</data>
     </node>
     <node id="Jimi_Hendrix">
-      <data key="d0">25299</data>
+      <data key="d0">25297</data>
     </node>
     <node id="Volbeat">
       <data key="d0">4061</data>
@@ -900,7 +888,7 @@
       <data key="d0">3821</data>
     </node>
     <node id="Elvis_Presley">
-      <data key="d0">28538</data>
+      <data key="d0">28518</data>
     </node>
     <node id="Air_Supply">
       <data key="d0">6119</data>
@@ -919,9 +907,6 @@
     </node>
     <node id="Chris_Cornell">
       <data key="d0">22709</data>
-    </node>
-    <node id="Category:Articles_with_short_description">
-      <data key="d0">1049</data>
     </node>
     <node id="Grand_Funk_Railroad">
       <data key="d0">4030</data>
@@ -942,13 +927,13 @@
       <data key="d0">4832</data>
     </node>
     <node id="Neil_Young">
-      <data key="d0">22913</data>
+      <data key="d0">22910</data>
     </node>
     <node id="Manfred_Mann%27s_Earth_Band">
       <data key="d0">4623</data>
     </node>
     <node id="Hinder">
-      <data key="d0">4624</data>
+      <data key="d0">4635</data>
     </node>
     <node id="Jerry_Lee_Lewis">
       <data key="d0">11775</data>
@@ -984,7 +969,7 @@
       <data key="d0">5138</data>
     </node>
     <node id="Kaiser_Chiefs">
-      <data key="d0">5253</data>
+      <data key="d0">5254</data>
     </node>
     <node id="Elvis_Costello">
       <data key="d0">21914</data>
@@ -1002,7 +987,7 @@
       <data key="d0">23277</data>
     </node>
     <node id="The_Verve">
-      <data key="d0">5950</data>
+      <data key="d0">5952</data>
     </node>
     <node id="Sam_Fender">
       <data key="d0">14782</data>
@@ -1056,7 +1041,7 @@
       <data key="d0">12914</data>
     </node>
     <node id="Radiohead">
-      <data key="d0">20320</data>
+      <data key="d0">20324</data>
     </node>
     <node id="Blink-182">
       <data key="d0">13560</data>
@@ -1074,16 +1059,16 @@
       <data key="d0">10628</data>
     </node>
     <node id="Franz_Ferdinand_(band)">
-      <data key="d0">6442</data>
+      <data key="d0">6444</data>
     </node>
     <node id="Stevie_Nicks">
-      <data key="d0">15735</data>
+      <data key="d0">15759</data>
     </node>
     <node id="Billy_Squier">
       <data key="d0">3824</data>
     </node>
     <node id="Queens_of_the_Stone_Age">
-      <data key="d0">9967</data>
+      <data key="d0">10010</data>
     </node>
     <node id="The_Everly_Brothers">
       <data key="d0">7849</data>
@@ -1170,7 +1155,7 @@
       <data key="d0">11358</data>
     </node>
     <node id="Joe_Satriani">
-      <data key="d0">7116</data>
+      <data key="d0">7120</data>
     </node>
     <node id="Parliament_(band)">
       <data key="d0">2591</data>
@@ -1179,13 +1164,13 @@
       <data key="d0">3293</data>
     </node>
     <node id="Canned_Heat">
-      <data key="d0">6626</data>
+      <data key="d0">6627</data>
     </node>
     <node id="Creedence_Clearwater_Revival">
       <data key="d0">8907</data>
     </node>
     <node id="Bowling_for_Soup">
-      <data key="d0">8184</data>
+      <data key="d0">8217</data>
     </node>
     <node id="The_Mothers_of_Invention">
       <data key="d0">6989</data>
@@ -1239,7 +1224,7 @@
       <data key="d0">5722</data>
     </node>
     <node id="My_Chemical_Romance">
-      <data key="d0">15506</data>
+      <data key="d0">15509</data>
     </node>
     <node id="Black_Veil_Brides">
       <data key="d0">8800</data>
@@ -1254,7 +1239,7 @@
       <data key="d0">16801</data>
     </node>
     <node id="Bryan_Ferry">
-      <data key="d0">8620</data>
+      <data key="d0">8614</data>
     </node>
     <node id="The_Doors">
       <data key="d0">12886</data>
@@ -1266,10 +1251,10 @@
       <data key="d0">4006</data>
     </node>
     <node id="DC">
-      <data key="d0">17650</data>
+      <data key="d0">17648</data>
     </node>
     <node id="Lou_Reed">
-      <data key="d0">12398</data>
+      <data key="d0">12439</data>
     </node>
     <node id="Panic!_at_the_Disco">
       <data key="d0">13721</data>
@@ -1285,9 +1270,6 @@
     </node>
     <node id="Starship_(band)">
       <data key="d0">3804</data>
-    </node>
-    <node id="Category:Short_description_is_different_from_Wikidata">
-      <data key="d0">1121</data>
     </node>
     <node id="Europe_(band)">
       <data key="d0">5189</data>
@@ -1314,7 +1296,7 @@
       <data key="d0">7817</data>
     </node>
     <node id="Weezer">
-      <data key="d0">17466</data>
+      <data key="d0">17456</data>
     </node>
     <node id="The_Presidents_of_the_United_States_of_America_(band)">
       <data key="d0">3206</data>
@@ -1353,7 +1335,7 @@
       <data key="d0">5437</data>
     </node>
     <node id="Santana_(band)">
-      <data key="d0">7780</data>
+      <data key="d0">7805</data>
     </node>
     <node id="The_Alan_Parsons_Project">
       <data key="d0">3639</data>
@@ -1371,7 +1353,7 @@
       <data key="d0">8099</data>
     </node>
     <node id="Joe_Cocker">
-      <data key="d0">6229</data>
+      <data key="d0">6208</data>
     </node>
     <node id="Barenaked_Ladies">
       <data key="d0">8690</data>
@@ -1381,9 +1363,6 @@
     </node>
     <node id="The_Tragically_Hip">
       <data key="d0">7921</data>
-    </node>
-    <node id="Category:Lists_of_rock_musicians_by_subgenre">
-      <data key="d0">448</data>
     </node>
     <node id="Smokie_(band)">
       <data key="d0">3812</data>
@@ -1443,7 +1422,7 @@
       <data key="d0">30999</data>
     </node>
     <node id="Queen_(band)">
-      <data key="d0">30922</data>
+      <data key="d0">30924</data>
     </node>
     <node id="Chris_de_Burgh">
       <data key="d0">3450</data>
@@ -1478,11 +1457,6 @@
     <node id="Foals_(band)">
       <data key="d0">5130</data>
     </node>
-    <edge source="Funkadelic" target="Cream_(band)" />
-    <edge source="Funkadelic" target="Jimi_Hendrix" />
-    <edge source="Funkadelic" target="Parliament-Funkadelic" />
-    <edge source="Funkadelic" target="Parliament_(band)" />
-    <edge source="Funkadelic" target="Sly_and_the_Family_Stone" />
     <edge source="Slayer" target="Ted_Nugent" />
     <edge source="Slayer" target="Ghost_(Swedish_band)" />
     <edge source="Slayer" target="Kiss_(band)" />
@@ -4908,7 +4882,6 @@
     <edge source="Imagine_Dragons" target="Counting_Crows" />
     <edge source="Imagine_Dragons" target="Coldplay" />
     <edge source="Imagine_Dragons" target="Genesis_(band)" />
-    <edge source="Imagine_Dragons" target="X_Ambassadors" />
     <edge source="Imagine_Dragons" target="Aerosmith" />
     <edge source="Imagine_Dragons" target="Train_(band)" />
     <edge source="Imagine_Dragons" target="Metallica" />
@@ -5283,12 +5256,6 @@
     <edge source="Genesis_(band)" target="Queen_(band)" />
     <edge source="Genesis_(band)" target="Pink_Floyd" />
     <edge source="Genesis_(band)" target="Crosby,_Stills,_Nash_%26_Young" />
-    <edge source="X_Ambassadors" target="Jimmy_Eat_World" />
-    <edge source="X_Ambassadors" target="Imagine_Dragons" />
-    <edge source="X_Ambassadors" target="The_Band" />
-    <edge source="X_Ambassadors" target="Panic!_at_the_Disco" />
-    <edge source="X_Ambassadors" target="Joe_Cocker" />
-    <edge source="X_Ambassadors" target="The_Script" />
     <edge source="Steve_Miller_Band" target="Chuck_Berry" />
     <edge source="Steve_Miller_Band" target="Journey_(band)" />
     <edge source="Steve_Miller_Band" target="Chicago_(band)" />
@@ -5700,7 +5667,6 @@
     <edge source="Everclear_(band)" target="Counting_Crows" />
     <edge source="Everclear_(band)" target="Bruce_Springsteen" />
     <edge source="Everclear_(band)" target="Gin_Blossoms" />
-    <edge source="Everclear_(band)" target="X_(American_band)" />
     <edge source="Everclear_(band)" target="Nirvana_(band)" />
     <edge source="Everclear_(band)" target="The_Beach_Boys" />
     <edge source="Everclear_(band)" target="Stone_Temple_Pilots" />
@@ -7170,8 +7136,6 @@
     <edge source="Pat_Benatar" target="Loverboy" />
     <edge source="Pat_Benatar" target="REO_Speedwagon" />
     <edge source="Pat_Benatar" target="Sheryl_Crow" />
-    <edge source="X_(American_band)" target="Pearl_Jam" />
-    <edge source="X_(American_band)" target="The_Doors" />
     <edge source="Buddy_Holly" target="Eric_Clapton" />
     <edge source="Buddy_Holly" target="The_Hollies" />
     <edge source="Buddy_Holly" target="Steve_Winwood" />
@@ -7855,7 +7819,6 @@
     <edge source="Bush_(British_band)" target="Panic!_at_the_Disco" />
     <edge source="Bush_(British_band)" target="INXS" />
     <edge source="Bush_(British_band)" target="Nickelback" />
-    <edge source="Audioslave" target="Funkadelic" />
     <edge source="Audioslave" target="Black_Sabbath" />
     <edge source="Audioslave" target="U2" />
     <edge source="Audioslave" target="System_of_a_Down" />
@@ -8092,7 +8055,6 @@
     <edge source="Blondie_(band)" target="Simon_%26_Garfunkel" />
     <edge source="Blondie_(band)" target="Ramones" />
     <edge source="Blondie_(band)" target="Pat_Benatar" />
-    <edge source="Blondie_(band)" target="X_(American_band)" />
     <edge source="Blondie_(band)" target="Buddy_Holly" />
     <edge source="Blondie_(band)" target="The_Bangles" />
     <edge source="Blondie_(band)" target="The_Go-Go%27s" />
@@ -9427,7 +9389,6 @@
     <edge source="Green_Day" target="Sublime_(band)" />
     <edge source="Green_Day" target="The_Rolling_Stones" />
     <edge source="Green_Day" target="Queen_(band)" />
-    <edge source="Jimi_Hendrix" target="Funkadelic" />
     <edge source="Jimi_Hendrix" target="Marilyn_Manson" />
     <edge source="Jimi_Hendrix" target="Eric_Clapton" />
     <edge source="Jimi_Hendrix" target="Kiss_(band)" />
@@ -9867,7 +9828,6 @@
     <edge source="The_Yardbirds" target="Joe_Satriani" />
     <edge source="The_Yardbirds" target="Rod_Stewart" />
     <edge source="The_Yardbirds" target="The_Rolling_Stones" />
-    <edge source="Parliament-Funkadelic" target="Funkadelic" />
     <edge source="Parliament-Funkadelic" target="Black_Sabbath" />
     <edge source="Parliament-Funkadelic" target="Run-DMC" />
     <edge source="Parliament-Funkadelic" target="Talking_Heads" />
@@ -10013,7 +9973,6 @@
     <edge source="Beck" target="Steely_Dan" />
     <edge source="Beck" target="R.E.M." />
     <edge source="Beck" target="U2" />
-    <edge source="Beck" target="X_(American_band)" />
     <edge source="Beck" target="Arcade_Fire" />
     <edge source="Beck" target="Nirvana_(band)" />
     <edge source="Beck" target="System_of_a_Down" />
@@ -12070,7 +12029,6 @@
     <edge source="The_Cab" target="Blink-182" />
     <edge source="The_Cab" target="Panic!_at_the_Disco" />
     <edge source="The_Cab" target="Queen_(band)" />
-    <edge source="Alice_in_Chains" target="Funkadelic" />
     <edge source="Alice_in_Chains" target="Slayer" />
     <edge source="Alice_in_Chains" target="Ted_Nugent" />
     <edge source="Alice_in_Chains" target="Days_of_the_New" />
@@ -12443,13 +12401,13 @@
     <edge source="Joe_Satriani" target="Whitesnake" />
     <edge source="Joe_Satriani" target="Primus_(band)" />
     <edge source="Joe_Satriani" target="Metallica" />
+    <edge source="Joe_Satriani" target="George_Harrison" />
     <edge source="Joe_Satriani" target="Jimi_Hendrix" />
     <edge source="Joe_Satriani" target="Red_Hot_Chili_Peppers" />
     <edge source="Joe_Satriani" target="The_Yardbirds" />
     <edge source="Joe_Satriani" target="Third_Eye_Blind" />
     <edge source="Joe_Satriani" target="Rainbow_(rock_band)" />
     <edge source="Joe_Satriani" target="Deep_Purple" />
-    <edge source="Parliament_(band)" target="Funkadelic" />
     <edge source="Parliament_(band)" target="Parliament-Funkadelic" />
     <edge source="Buckcherry" target="Limp_Bizkit" />
     <edge source="Buckcherry" target="Kiss_(band)" />
@@ -12602,7 +12560,6 @@
     <edge source="Depeche_Mode" target="Simple_Minds" />
     <edge source="Depeche_Mode" target="Queen_(band)" />
     <edge source="Depeche_Mode" target="Rammstein" />
-    <edge source="Sly_and_the_Family_Stone" target="Funkadelic" />
     <edge source="Sly_and_the_Family_Stone" target="Roxy_Music" />
     <edge source="Sly_and_the_Family_Stone" target="Eric_Clapton" />
     <edge source="Sly_and_the_Family_Stone" target="Steve_Winwood" />
@@ -13171,7 +13128,6 @@
     <edge source="The_Doors" target="Iggy_Pop" />
     <edge source="The_Doors" target="Huey_Lewis_and_the_News" />
     <edge source="The_Doors" target="U2" />
-    <edge source="The_Doors" target="X_(American_band)" />
     <edge source="The_Doors" target="Jefferson_Airplane" />
     <edge source="The_Doors" target="The_Cult" />
     <edge source="The_Doors" target="Creed_(band)" />

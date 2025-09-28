@@ -183,7 +183,6 @@ https://en.wikipedia.org/wiki/The_Fray
 https://en.wikipedia.org/wiki/Glenn_Frey
 https://en.wikipedia.org/wiki/Fuel_(band)
 https://en.wikipedia.org/wiki/Fun_(band)
-https://en.wikipedia.org/wiki/Funkadelic
 https://en.wikipedia.org/wiki/Peter_Gabriel
 https://en.wikipedia.org/wiki/Garbage_(band)
 https://en.wikipedia.org/wiki/Genesis_(band)
@@ -477,8 +476,6 @@ https://en.wikipedia.org/wiki/Whitesnake
 https://en.wikipedia.org/wiki/The_Who
 https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings
 https://en.wikipedia.org/wiki/Steve_Winwood
-https://en.wikipedia.org/wiki/X_(American_band)
-https://en.wikipedia.org/wiki/X_Ambassadors
 https://en.wikipedia.org/wiki/The_Yardbirds
 https://en.wikipedia.org/wiki/Yes_(band)
 https://en.wikipedia.org/wiki/Neil_Young
@@ -486,7 +483,3 @@ https://en.wikipedia.org/wiki/Frank_Zappa
 https://en.wikipedia.org/wiki/Rob_Zombie
 https://en.wikipedia.org/wiki/The_Zombies
 https://en.wikipedia.org/wiki/ZZ_Top
-https://en.wikipedia.org/wiki/Category:Lists_of_rock_musicians
-https://en.wikipedia.org/wiki/Category:Lists_of_rock_musicians_by_subgenre
-https://en.wikipedia.org/wiki/Category:Articles_with_short_description
-https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata
